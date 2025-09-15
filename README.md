@@ -75,7 +75,8 @@ I’m always keen to collaborate on data engineering initiatives, explore AI inn
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?dinesh-nimmagadda3&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh-nimmagadda3&show_icons=true&theme=tokyonight)
+
 
 
 ### 💡 Fun Fact
